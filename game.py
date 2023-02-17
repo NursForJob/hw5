@@ -1,8 +1,8 @@
 from random import choice
-from win_or_lose import Win_or_lose
+from win_or_lose import WinOrLose
 
 
-class Game(Win_or_lose):
+class Game(WinOrLose):
     def __init__(self, staff):
         super().__init__()
         self.__staff = staff

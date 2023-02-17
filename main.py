@@ -1,9 +1,9 @@
-from win_or_lose import Win_or_lose
+from win_or_lose import WinOrLose
 
 
 class Main:
     if __name__ == '__main__':
-        win_or_lose = Win_or_lose()
+        win_or_lose = WinOrLose()
         win_or_lose.start()
 
 
