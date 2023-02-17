@@ -3,6 +3,7 @@ from game import Game
 from decouple import config
 
 
+
 class Win_or_lose(Main):
     def __init__(self):
         super().__init__()
