@@ -1,4 +1,4 @@
-from win_or_lose import WinOrLose
+from winOrLose import WinOrLose
 
 
 class Main:
